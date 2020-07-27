@@ -6,7 +6,7 @@ namespace App_forthe_Maquina
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello mi gente!");
+            Console.WriteLine("Hello mi mundo!");
         }
     }
 }
